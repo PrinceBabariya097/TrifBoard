@@ -8,7 +8,8 @@ const Loading = () => {
         src={"/trif-logo.webp"}
         alt="trif logo image"
         height={100}
-        width={100}
+        width={200}
+        objectFit="cover"
         className="animate-pulse duration-700"
       />
     </div>
